@@ -1,4 +1,4 @@
-##Fractal-Dimension-Analysis-of-Time-series
+## Fractal-Dimension-Analysis-of-Time-series
 Analysis of Time Varying Signals using Several Fractal Dimension Methods 
 
 The procedures used are Hurst Exponent, Detrended Fluctuation Analysis, Approximate Entropy and Higuchi Fractal Dimension.
